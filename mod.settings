@@ -1,0 +1,8 @@
+name        = "[Shine] Lifeform Selector"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[]=]
+image       = "preview.jpg"
+tag_modtype = ""
+tag_support = ""
+publish_id = 3516553264

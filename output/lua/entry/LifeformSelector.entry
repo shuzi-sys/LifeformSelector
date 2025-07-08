@@ -1,0 +1,7 @@
+modEntry = {
+        Client = "lua/LifeformSelector/client.lua",
+        Server = "lua/LifeformSelector/server.lua",
+        Shared = "lua/LifeformSelector/shared.lua",
+        FileHooks = "lua/LifeformSelector/FileHooks.lua",
+    Priority = 10
+}
